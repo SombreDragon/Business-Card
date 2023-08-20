@@ -46,7 +46,7 @@ body {
     box-shadow: 0px 0px 15px 5px #735751;
     /* transform: rotateZ(360deg); */
     animation-name: Shadow;
-    animation-duration:  3s;
+    animation-duration:  1.5s;
     animation-direction: linear;
     animation-iteration-count: infinite;
     animation-play-state: running;
